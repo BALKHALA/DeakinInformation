@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Deakin Information Application</string>
+  <string name="DeakinBuildings">Deakin Buildings</string>
+  <string name="DeakinSecurity">Deakin Security</string>
+  <string name="PhoneNumbers">Phone Numbers</string>
+  <string name="ImmigrationInformation">Immigration Information</string>
+  <string name="ResidencyInformation">Residency Information</string>
+  <string name="CustomInformation">My Custom Information</string>
+</resources>

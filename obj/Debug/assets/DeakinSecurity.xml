@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<informationpanels>
+  <panel>
+    <panelid>1</panelid>
+    <title>Security Escorts</title>
+    <description>
+      This is a free 24/7 service and can be booked by contacting Security on the appropriate contact numbers listed on this page or on our Emergency and Crisis Information page. We recommended that you call Security at least 10 minutes prior to the requested time. You may also use the Help button on the Deakin Safezone App to speak to a guard to arrange an escort.
+    </description>
+  </panel>
+  <panel>
+    <panelid>2</panelid>
+    <title>Reporting Security Incidents</title>
+    <description>
+      Incidents can be reported by contacting Security on the appropriate contact numbers listed on this page or on our Emergency and Crisis Information page, security staff will then complete an incident report form. All incident reports are forwarded to the Security Manager, Campus Services Division who will investigate further. All records are kept strictly confidential and any external reporting involves aggregate data only.
+    </description>
+  </panel>
+  <panel>
+    <panelid>3</panelid>
+    <title>Contact (All Campuses)</title>
+    <description>
+      1800 062 579
+    </description>
+  </panel>
+  <panel>
+    <panelid>4</panelid>
+    <title>Melbourne Burwood Campus</title>
+    <description>
+      03 9244 6222
+    </description>
+  </panel>
+  <panel>
+    <panelid>5</panelid>
+    <title>Geelong Waurn Ponds Campus</title>
+    <description>
+      03 5227 2222
+    </description>
+  </panel>
+  <panel>
+    <panelid>6</panelid>
+    <title>Geelong Waterfront Campus</title>
+    <description>
+      03 5227 8222
+    </description>
+  </panel>
+</informationpanels>
